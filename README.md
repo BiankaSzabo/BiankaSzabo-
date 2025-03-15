@@ -1,4 +1,4 @@
-# BiankaSzabo-
+
 Hi there! 👋 I'm Bianka
 
 🌟 Welcome to my GitHub! I'm a passionate Front-End Developer in training, currently in my second year at Noroff. I love building clean, responsive, and user-friendly web applications.
